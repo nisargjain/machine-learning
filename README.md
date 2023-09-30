@@ -3,3 +3,6 @@ Some of my basic projects in Machine Learning.
 
 1. Sunspot Number:
    This is an EDA project which follows principles of Data Cleaning and helps build strong fundamentals of Pandas
+3. Wordle:
+   Solving wordle using Linear Programming and Optimization Techniques
+   
